@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Gonzalo</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Passionate about Web Development.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Java | JavaScript | Spring Boot | 
+
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git 
+
+
 
 <!--
-**gonzacocchetto/gonzacocchetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠 To Learn</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 -->
+
+
+
+
